@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 1,
+  "studioVersion": "1.4.32",
+  "optimizer": {
+    "engine": "Aura Digital v5.6.4",
+    "profileKB": 500,
+    "exactAura500": true
+  },
+  "appearance": {
+    "style": "signature",
+    "coverStyle": "classic",
+    "mobileCoverMode": "mixed",
+    "coverBoxOpacity": 91,
+    "bannerOverlay": 50,
+    "revealStyle": "soft",
+    "studioName": "Nuestra Historia",
+    "brandMode": "logo",
+    "logoPath": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-001-a3f05edd08215a8f.png",
+    "accentColor": "#a58d63",
+    "backgroundColor": "#f5f2ec",
+    "textColor": "#2f2c28"
+  },
+  "social": {
+    "title": "",
+    "description": "",
+    "imageSource": "hero",
+    "cropX": 50,
+    "cropY": 50,
+    "zoom": 100,
+    "customPath": "",
+    "publicUrl": "https://auradigitaljal.com/joselyn/",
+    "imagePath": "og-preview.jpg"
+  },
+  "event": {
+    "title": "Joselyn",
+    "date": "2027-01-10",
+    "heroEyebrow": "Xv años",
+    "subtitle": "A unos días de este momento tan especial.",
+    "description": "Gracias por ser parte de esta historia.",
+    "heroX": 50,
+    "heroY": 22,
+    "heroPath": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-002-bff614a8680bb176.jpg"
+  },
+  "sectionOrder": [
+    "getting-ready",
+    "misa",
+    "recepcion",
+    "vals",
+    "fiesta",
+    "videos"
+  ],
+  "sections": [
+    {
+      "id": "getting-ready",
+      "label": "Sesión Fotográfica ",
+      "title": "",
+      "enabled": true,
+      "x": 50,
+      "y": 40,
+      "layout": "aura-rows",
+      "highlightsEnabled": true,
+      "highlightsCount": 6,
+      "galleryDisplay": "expanded",
+      "bannerPath": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-003-8b8fe286acc060d7.jpg"
+    },
+    {
+      "id": "misa",
+      "label": "Misa",
+      "title": "La Ceremonia",
+      "enabled": false,
+      "x": 50,
+      "y": 50,
+      "layout": "editorial",
+      "highlightsEnabled": true,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": ""
+    },
+    {
+      "id": "recepcion",
+      "label": "Recepción",
+      "title": "La Recepción",
+      "enabled": false,
+      "x": 50,
+      "y": 50,
+      "layout": "masonry",
+      "highlightsEnabled": false,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": ""
+    },
+    {
+      "id": "vals",
+      "label": "Vals",
+      "title": "Nuestro Vals",
+      "enabled": false,
+      "x": 50,
+      "y": 50,
+      "layout": "carousel",
+      "highlightsEnabled": false,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": ""
+    },
+    {
+      "id": "fiesta",
+      "label": "Fiesta",
+      "title": "La Fiesta",
+      "enabled": false,
+      "x": 50,
+      "y": 50,
+      "layout": "masonry",
+      "highlightsEnabled": false,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": ""
+    }
+  ],
+  "photos": [
+    {
+      "id": "pmwuttcbl6",
+      "name": "_DSC6604 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 5145,
+      "height": 3430,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-002-bff614a8680bb176.jpg"
+    },
+    {
+      "id": "pmwuttb5a1",
+      "name": "_DSC6544 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-004-59ec2a1390040db5.jpg"
+    },
+    {
+      "id": "pmwuttbcp2",
+      "name": "_DSC6531 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-005-0aa7f17ee9ffc738.jpg"
+    },
+    {
+      "id": "pmwuttbl43",
+      "name": "_DSC6534 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-006-f790b08ec13538b8.jpg"
+    },
+    {
+      "id": "pmwuttc195",
+      "name": "_DSC6582 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3583,
+      "height": 5374,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-007-437a18840e8ec8ca.jpg"
+    },
+    {
+      "id": "pmwuttcis7",
+      "name": "_DSC6618 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3382,
+      "height": 5073,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-008-2cf7bcc3d1b07f83.jpg"
+    },
+    {
+      "id": "pmwuttcqr8",
+      "name": "_DSC6639 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-009-a5ef644dd6ce92ec.jpg"
+    },
+    {
+      "id": "pmwuttd4a9",
+      "name": "_DSC6642 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-010-247ff45d3d592928.jpg"
+    },
+    {
+      "id": "pmwuttdb0a",
+      "name": "_DSC6659 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-011-c51de91f3e56f565.jpg"
+    },
+    {
+      "id": "pmwuttdpzb",
+      "name": "_DSC6685 copia.jpg",
+      "section": "getting-ready",
+      "width": 5568,
+      "height": 3712,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-003-8b8fe286acc060d7.jpg"
+    },
+    {
+      "id": "pmwuttdyqc",
+      "name": "_DSC6683 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-012-a8330ed2d4c29b27.jpg"
+    },
+    {
+      "id": "pmwutte5vd",
+      "name": "_DSC6695 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-013-77466a5288fe32b6.jpg"
+    },
+    {
+      "id": "pmwuttedje",
+      "name": "_DSC6737 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-014-469c5c9ec92b374d.jpg"
+    },
+    {
+      "id": "pmwuttelxf",
+      "name": "_DSC6799 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3583,
+      "height": 5374,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-015-d284685caa4ab7a5.jpg"
+    },
+    {
+      "id": "pmwuttf4zg",
+      "name": "_DSC6756 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 5568,
+      "height": 3712,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-016-0ea609fd73d24122.jpg"
+    },
+    {
+      "id": "pmwuttfi3h",
+      "name": "_DSC6772 copia.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-017-4a9fcad47b5faade.jpg"
+    },
+    {
+      "id": "pmwuttfwei",
+      "name": "_DSC6776 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-018-e70bdab502736f14.jpg"
+    },
+    {
+      "id": "pmwuttgb3j",
+      "name": "_DSC6778 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3712,
+      "height": 5568,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-019-432fbac84942d8ab.jpg"
+    },
+    {
+      "id": "pmwuttgjmk",
+      "name": "_DSC6816 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3471,
+      "height": 5207,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-020-c57cb16550c04d66.jpg"
+    },
+    {
+      "id": "pmwuttgt6l",
+      "name": "_DSC6825 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 5568,
+      "height": 3712,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-021-db80b5de5394bc29.jpg"
+    },
+    {
+      "id": "pmwutth1nm",
+      "name": "_DSC6869 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 5568,
+      "height": 3712,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-022-8328b949cf95ff04.jpg"
+    },
+    {
+      "id": "pmwutthfln",
+      "name": "_DSC6863 copia.jpg",
+      "section": "getting-ready",
+      "width": 5328,
+      "height": 3552,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "https://fotos-prueba.auradigitaljal.com/galerias/joselyn/assets/img-023-f5c8625981eedef3.jpg"
+    }
+  ],
+  "videos": {
+    "enabled": true,
+    "eyebrow": "PELÍCULA",
+    "title": "Videos del evento",
+    "items": [],
+    "urls": []
+  },
+  "music": {
+    "enabled": false,
+    "path": "",
+    "name": "",
+    "title": "",
+    "artist": "",
+    "playerVisible": true,
+    "autostart": false,
+    "loop": true
+  },
+  "download": {
+    "enabled": false,
+    "url": ""
+  }
+}
